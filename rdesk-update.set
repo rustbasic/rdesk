@@ -1,5 +1,6 @@
 "language:key", "Default", "English", "Korean", "Japan", "China", "Germany", "France", "Italy", "Spain", "Portugal", "Russian", "Turkey", "India", "Indonesia", "Taiwan", "", "", "", "", "", "", "",
 "language-total:setup", "14", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",
+"rdesk-welcome:notice", "Welcome to R-DESK v0.9.0",
 "rdesk-lastest-version:setup", "v0.9.0",
 "rdesk-lastest-exist:notice", "There's a new version of RDESK available. You can find it at https://github.com/rustbasic/rdesk",
 "gemini-apikey-default:setup", "39, 161, 57, 181, 170, 36, 13, 226, 141, 28, 85, 145, 38, 24, 119, 75, 83, 197, 33, 252, 93, 14, 198, 49, 95, 190, 243, 200, 4, 138, 105, 118, 148, 137, 50, 243, 178, 64, 213, 49, 246, 127, 29, 35, 182, 22, 41, 153, 254, 121, 174, 2, 42, 119, 166",
