@@ -26,6 +26,10 @@
 * [x] Create images with prompts. (Requires OpenAI APIKEY)
 * [x] Create images with voice. (Requires OpenAI APIKEY)
 
+<img src="media/rimage-1.png" width="100%">
+<img src="media/rimage-2.png" width="100%">
+<img src="media/rimage-3.png" width="100%">
+
 ## R-Editor
 
 * [x] Editor text documents.
