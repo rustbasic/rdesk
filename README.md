@@ -18,9 +18,11 @@
 ## R-Login
 
 * [x] Supports self-login without internet access and database.
-* [x] Supports file encryption. ( 256bit encryption )
 
 <img src="media/rlogin-1.png" width="100%">
+
+* [x] Supports file encryption. ( 256bit encryption )
+
 <img src="media/rlogin-2.png" width="100%">
 
 ## R-Image
