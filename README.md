@@ -1,6 +1,6 @@
 # R-DESK
 
-## R-Login, R-Image, R-Editor, R-Dos, R-Chat, R-Paint
+## R-Login, R-Image, R-Editor, R-Dos, R-Chat, R-Paint, R-Sound
 
 ### Donwload: https://github.com/rustbasic/rdesk/blob/main/rdesk.exe?raw=true
 
@@ -78,3 +78,9 @@
 * [x] Supports transparent board.
 
 <img src="media/rpaint-1.png" width="100%">
+
+## R-Sound
+
+* [x] Supports Play Sound
+
+<img src="media/rsound-1.png" width="100%">
