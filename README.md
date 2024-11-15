@@ -17,7 +17,7 @@
 
 ## R-Image
 
-* [x] Dist image viewer.
+* [x] Disk image viewer.
 * [x] Internet image viewer.
 * [x] Random image viewer.
 * [x] Zoom in/out images.
