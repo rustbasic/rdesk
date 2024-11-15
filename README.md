@@ -1,6 +1,6 @@
 *** R-DESK ***
 
-https://github.com/rustbasic/rdesk/blob/main/rdesk.exe?raw=true
+Donwload: https://github.com/rustbasic/rdesk/blob/main/rdesk.exe?raw=true
 
 R-Image, R-Editor, R-Dos, R-Chat, R-Paint
 
