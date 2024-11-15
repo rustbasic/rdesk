@@ -64,11 +64,13 @@
 * [x] Google Gemini supported.
 * [x] OpenAI ChatGPT supported. (Requires OpenAI APIKEY)
 * [x] Supports waiting room and chat rooms.
-* [x] Supports various topics
 * [x] Supports voice recognition. (Requires OpenAI APIKEY)
 * [x] Supports voice output. (Requires OpenAI APIKEY)
 
 <img src="media/rchat-1.png" width="100%">
+
+* [x] Supports various topics
+
 <img src="media/rchat-2.png" width="100%">
 
 ## R-Paint
