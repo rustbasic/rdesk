@@ -15,6 +15,8 @@
 * [x] Supports Mouse Pass Through.
 * [x] Supports advertisement features.
 
+<img src="media/rdesk-2.png" width="100%">
+
 ## R-Image
 
 * [x] Disk image viewer.
