@@ -1,8 +1,8 @@
-### R-DESK
+# R-DESK
 
 ## R-Image, R-Editor, R-Dos, R-Chat, R-Paint
 
-# Donwload: https://github.com/rustbasic/rdesk/blob/main/rdesk.exe?raw=true
+### Donwload: https://github.com/rustbasic/rdesk/blob/main/rdesk.exe?raw=true
 
 * [x] Supports OS: Windows Only
 
