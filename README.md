@@ -1,6 +1,6 @@
 # R-DESK
 
-## R-Image, R-Editor, R-Dos, R-Chat, R-Paint
+## R-Login, R-Image, R-Editor, R-Dos, R-Chat, R-Paint
 
 ### Donwload: https://github.com/rustbasic/rdesk/blob/main/rdesk.exe?raw=true
 
@@ -8,14 +8,20 @@
 
 <img src="media/rdesk-1.png" width="100%">
 
-* [x] Supports self-login without internet access and database.
-* [x] Supports file encryption.
 * [x] Supports Always On TOP feature.
 * [x] Supports transparency and translucency.
 * [x] Supports Mouse Pass Through.
 * [x] Supports advertisement features.
 
 <img src="media/rdesk-2.png" width="100%">
+
+## R-Login
+
+* [x] Supports self-login without internet access and database.
+* [x] Supports file encryption. ( 256bit encryption )
+
+<img src="media/rlogin-1.png" width="100%">
+<img src="media/rlogin-2.png" width="100%">
 
 ## R-Image
 
