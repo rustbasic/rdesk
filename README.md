@@ -1,10 +1,12 @@
-*** R-DESK ***
+### R-DESK
 
-Donwload: https://github.com/rustbasic/rdesk/blob/main/rdesk.exe?raw=true
+## R-Image, R-Editor, R-Dos, R-Chat, R-Paint
 
-R-Image, R-Editor, R-Dos, R-Chat, R-Paint
+# Donwload: https://github.com/rustbasic/rdesk/blob/main/rdesk.exe?raw=true
 
 * [x] Supports OS: Windows Only
+
+<img src="media/rdesk-1.png" width="100%">
 
 * [x] Supports self-login without internet access and database.
 * [x] Supports file encryption.
@@ -13,7 +15,7 @@ R-Image, R-Editor, R-Dos, R-Chat, R-Paint
 * [x] Supports Mouse Pass Through.
 * [x] Supports advertisement features.
 
-** R-Image **
+## R-Image
 
 * [x] Dist image viewer.
 * [x] Internet image viewer.
@@ -22,14 +24,14 @@ R-Image, R-Editor, R-Dos, R-Chat, R-Paint
 * [x] Create images with prompts. (Requires OpenAI APIKEY)
 * [x] Create images with voice. (Requires OpenAI APIKEY)
 
-** R-Editor **
+## R-Editor
 
 * [x] Editor text documents.
 * [x] Supports Rust code color.
 * [x] Color settings.
 * [x] Voice text input. (Requires OpenAI APIKEY)
 
-** R-Dos **
+## R-Dos
 
 * [x] View DOS screen.
 * [x] Enter DOS commands.
@@ -37,7 +39,7 @@ R-Image, R-Editor, R-Dos, R-Chat, R-Paint
 * [x] Reuse executed commands.
 * [x] Voice command input. (Requires OpenAI APIKEY)
 
-** R-Chat **
+## R-Chat
 
 * [x] Google Gemini supported.
 * [x] OpenAI ChatGPT supported. (Requires OpenAI APIKEY)
@@ -46,6 +48,6 @@ R-Image, R-Editor, R-Dos, R-Chat, R-Paint
 * [x] Supports voice recognition. (Requires OpenAI APIKEY)
 * [x] Supports voice output. (Requires OpenAI APIKEY)
 
-** R-Paint **
+## R-Paint
 
 * [x] Supports transparent board.
