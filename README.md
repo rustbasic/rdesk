@@ -23,11 +23,13 @@
 * [x] Internet image viewer.
 * [x] Random image viewer.
 * [x] Zoom in/out images.
-* [x] Create images with prompts. (Requires OpenAI APIKEY)
-* [x] Create images with voice. (Requires OpenAI APIKEY)
 
 <img src="media/rimage-1.png" width="100%">
 <img src="media/rimage-2.png" width="100%">
+
+* [x] Create images with prompts. (Requires OpenAI APIKEY)
+* [x] Create images with voice. (Requires OpenAI APIKEY)
+
 <img src="media/rimage-3.png" width="100%">
 
 ## R-Editor
@@ -37,6 +39,8 @@
 * [x] Color settings.
 * [x] Voice text input. (Requires OpenAI APIKEY)
 
+<img src="media/reditor-1.png" width="100%">
+
 ## R-Dos
 
 * [x] View DOS screen.
@@ -44,6 +48,8 @@
 * [x] Display execution history.
 * [x] Reuse executed commands.
 * [x] Voice command input. (Requires OpenAI APIKEY)
+
+<img src="media/rdos-1.png" width="100%">
 
 ## R-Chat
 
@@ -54,6 +60,11 @@
 * [x] Supports voice recognition. (Requires OpenAI APIKEY)
 * [x] Supports voice output. (Requires OpenAI APIKEY)
 
+<img src="media/rchat-1.png" width="100%">
+<img src="media/rchat-2.png" width="100%">
+
 ## R-Paint
 
 * [x] Supports transparent board.
+
+<img src="media/rpaint-1.png" width="100%">
