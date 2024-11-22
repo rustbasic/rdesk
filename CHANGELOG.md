@@ -2,7 +2,7 @@
 
 ## v1.0.0
 
-* referenced README.md
+* Refer to README.md
 
 
 ## v1.0.1
