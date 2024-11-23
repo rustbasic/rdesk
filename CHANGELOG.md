@@ -16,11 +16,11 @@
 
 * Exit `Hide All Menu mode` with Right-Click
 
-* Supports OpenAI's `audio` model, but include a `Warning` about existing Bugs within OpenAI.
+* R-CHAT: Supports OpenAI's `audio` model, but include a `Warning` about existing Bugs within OpenAI.
 
 
 ## v1.0.3
 
 * Exit `Hide All Menu mode` with ESC or SPACE
 
-* To prevent bugs in OpenAI's `audio` model, `MaxTokens` is limited to 256.
+* R-CHAT: To prevent bugs in OpenAI's `audio` model, `MaxTokens` is limited to 256.
