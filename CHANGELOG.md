@@ -24,3 +24,10 @@
 * Exit `Hide All Menu mode` with ESC or SPACE
 
 * R-CHAT: To prevent bugs in OpenAI's `audio` model, `MaxTokens` is limited to 256.
+
+
+## v1.0.4
+
+* R-LOGIN: Displays a notification if CapsLock is on.
+
+* R-CHAT: Enhanced error message output
