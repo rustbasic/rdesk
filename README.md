@@ -17,16 +17,6 @@
 
 <img src="media/rdesk-2.png" width="100%">
 
-## R-Login
-
-* [x] Supports self-login without internet access and database.
-
-<img src="media/rlogin-1.png" width="100%">
-
-* [x] Supports file encryption. ( 256bit encryption )
-
-<img src="media/rlogin-2.png" width="100%">
-
 ## R-Chat
 
 * [x] Google Gemini supported.
@@ -40,6 +30,16 @@
 * [x] Supports various topics
 
 <img src="media/rchat-2.png" width="100%">
+
+## R-Login
+
+* [x] Supports self-login without internet access and database.
+
+<img src="media/rlogin-1.png" width="100%">
+
+* [x] Supports file encryption. ( 256bit encryption )
+
+<img src="media/rlogin-2.png" width="100%">
 
 ## R-Image
 
