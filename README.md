@@ -27,6 +27,20 @@
 
 <img src="media/rlogin-2.png" width="100%">
 
+## R-Chat
+
+* [x] Google Gemini supported.
+* [x] OpenAI ChatGPT supported. (Requires OpenAI APIKEY)
+* [x] Supports waiting room and chat rooms.
+* [x] Supports voice recognition. (Requires OpenAI APIKEY)
+* [x] Supports voice output. (Requires OpenAI APIKEY)
+
+<img src="media/rchat-1.png" width="100%">
+
+* [x] Supports various topics
+
+<img src="media/rchat-2.png" width="100%">
+
 ## R-Image
 
 * [x] Disk image viewer.
@@ -60,20 +74,6 @@
 * [x] Voice command input. (Requires OpenAI APIKEY)
 
 <img src="media/rdos-1.png" width="100%">
-
-## R-Chat
-
-* [x] Google Gemini supported.
-* [x] OpenAI ChatGPT supported. (Requires OpenAI APIKEY)
-* [x] Supports waiting room and chat rooms.
-* [x] Supports voice recognition. (Requires OpenAI APIKEY)
-* [x] Supports voice output. (Requires OpenAI APIKEY)
-
-<img src="media/rchat-1.png" width="100%">
-
-* [x] Supports various topics
-
-<img src="media/rchat-2.png" width="100%">
 
 ## R-Paint
 
