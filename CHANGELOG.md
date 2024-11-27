@@ -2,7 +2,7 @@
 
 ## v1.0.0
 
-* Refer to README.md
+* Refer to `README.md`
 
 
 ## v1.0.1
@@ -16,7 +16,7 @@
 
 * Exit `Hide All Menu mode` with Right-Click
 
-* R-CHAT: Supports OpenAI's `audio` model, but include a `Warning` about existing Bugs within OpenAI.
+* R-CHAT: Supports OpenAI's `audio` model ( but include a `Warning` about existing Bugs within OpenAI )
 
 
 ## v1.0.3
@@ -28,6 +28,15 @@
 
 ## v1.0.4
 
-* R-LOGIN: Displays a notification if CapsLock is on.
+* R-LOGIN: Displays a notification if `CapsLock` is on.
 
 * R-CHAT: Enhanced error message output
+
+
+## v1.0.5
+
+* R-CHAT: Add `Rust Programming` topic
+
+* R-CHAT: Supports OpenAI's `o1-` model
+
+* R-CHAT: Supports OpenAI's `text-embedding-` model
