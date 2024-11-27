@@ -35,7 +35,7 @@
 
 * R-CHAT: Add `View ChatRoom Info` menu
 
-* R-CHAT: Applying the `Gemini 1.5 Pro` model to the Waiting Room
+* R-CHAT: Applying the `Gemini 1.5 Pro` model to the `Waiting Room`
 
 
 ## v1.0.0
