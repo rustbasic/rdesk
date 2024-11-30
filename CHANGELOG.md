@@ -1,6 +1,11 @@
 # R-DESK ChangeLog
 
 
+## v1.0.6
+
+* Some improvements
+
+
 ## v1.0.5
 
 * R-CHAT: Add `Rust Programming` topic
