@@ -1,6 +1,13 @@
 # R-DESK ChangeLog
 
 
+## v1.0.7
+
+* R-EDITOR : Displays a notification if `CapsLock` and `NumLock` is on.
+
+* Some improvements
+
+
 ## v1.0.6
 
 * Some improvements
@@ -26,14 +33,14 @@
 
 * Exit `Hide All Menu mode` with ESC or SPACE
 
-* R-CHAT: To prevent bugs in OpenAI's `audio` model, `MaxTokens` is limited to 256.
+* R-CHAT: To prevent bugs in OpenAI's `audio-` model, `MaxTokens` is limited to 256.
 
 
 ## v1.0.2
 
 * Exit `Hide All Menu mode` with Right-Click
 
-* R-CHAT: Supports OpenAI's `audio` model ( but include a `Warning` about existing Bugs within OpenAI )
+* R-CHAT: Supports OpenAI's `audio-` model ( but include a `Warning` about existing Bugs within OpenAI )
 
 
 ## v1.0.1
