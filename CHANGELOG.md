@@ -1,11 +1,13 @@
 # R-DESK ChangeLog
 
+## v1.0.8
+
+* Bug Fixes : Button position issue
+
 
 ## v1.0.7
 
 * R-EDITOR : Displays a notification if `CapsLock` and `NumLock` is on.
-
-* Some improvements
 
 
 ## v1.0.6
