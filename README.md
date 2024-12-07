@@ -2,6 +2,8 @@
 
 This program was built for `Windows` using `Rust` and the `egui` library.
 
+The source code is not publicly available for security reasons.
+
 ## R-Login, R-Chat, R-Image, R-Editor, R-Dos, R-Paint, R-Sound
 
 ### Donwload: https://github.com/rustbasic/rdesk/blob/main/rdesk.exe?raw=true
