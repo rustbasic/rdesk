@@ -1,26 +1,26 @@
 # R-DESK ChangeLog
 
-# R-DESK v1.0.9
+## R-DESK v1.0.9
 
 * Some Bug Fixes & Some improvements
 
 
-# R-DESK v1.0.8
+## R-DESK v1.0.8
 
 * Bug Fixes : Button position issue
 
 
-# R-DESK v1.0.7
+## R-DESK v1.0.7
 
 * R-EDITOR : Displays a notification if `CapsLock` and `NumLock` is on.
 
 
-# R-DESK v1.0.6
+## R-DESK v1.0.6
 
 * Some improvements
 
 
-# R-DESK v1.0.5
+## R-DESK v1.0.5
 
 * R-CHAT: Add `Rust Programming` topic
 
@@ -29,35 +29,35 @@
 * R-CHAT: Supports OpenAI's `text-embedding-` model
 
 
-# R-DESK v1.0.4
+## R-DESK v1.0.4
 
 * R-LOGIN: Displays a notification if `CapsLock` is on.
 
 * R-CHAT: Enhanced error message output
 
 
-# R-DESK v1.0.3
+## R-DESK v1.0.3
 
 * Exit `Hide All Menu mode` with ESC or SPACE
 
 * R-CHAT: To prevent bugs in OpenAI's `audio-` model, `MaxTokens` is limited to 256.
 
 
-# R-DESK v1.0.2
+## R-DESK v1.0.2
 
 * Exit `Hide All Menu mode` with Right-Click
 
 * R-CHAT: Supports OpenAI's `audio-` model ( but include a `Warning` about existing Bugs within OpenAI )
 
 
-# R-DESK v1.0.1
+## R-DESK v1.0.1
 
 * R-CHAT: Add `View ChatRoom Info` menu
 
 * R-CHAT: Applying the `Gemini 1.5 Pro` model to the `Waiting Room`
 
 
-# R-DESK v1.0.0
+## R-DESK v1.0.0
 
 * [x] Supports OS: Windows Only
 
