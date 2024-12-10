@@ -56,7 +56,7 @@
 
 * Exit `Hide All Menu mode` with Right-Click
 
-R-CHAT: Now supports OpenAI's `audio-` model (with a warning regarding known bugs on OpenAI's side)
+* R-CHAT: Now supports OpenAI's `audio-` model (with a warning regarding known bugs on OpenAI's side)
 
 
 ## R-DESK v1.0.1
