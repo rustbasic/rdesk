@@ -1,13 +1,22 @@
 # R-DESK ChangeLog
 
+## R-DESK v1.1.0
+
+* R-CHAT: Apply the "Gemini Experimental 1206" model to the "Basic Room"
+
+* R-CHAT: The Waiting Topic now includes both "Basic Room" and "Waiting Room"
+
+* Some improvements
+
+
 ## R-DESK v1.0.9
 
-* Some Bug Fixes & Some improvements
+* Some improvements
 
 
 ## R-DESK v1.0.8
 
-* Bug Fixes : Button position issue
+* Fixed: Button position issue
 
 
 ## R-DESK v1.0.7
@@ -24,9 +33,9 @@
 
 * R-CHAT: Add `Rust Programming` topic
 
-* R-CHAT: Supports OpenAI's `o1-` model
+* R-CHAT: Now supports OpenAI's `o1-` model
 
-* R-CHAT: Supports OpenAI's `text-embedding-` model
+* R-CHAT: Now supports OpenAI's `text-embedding-` model
 
 
 ## R-DESK v1.0.4
@@ -38,7 +47,7 @@
 
 ## R-DESK v1.0.3
 
-* Exit `Hide All Menu mode` with ESC or SPACE
+* Exit the **Hide All Menu mode** with ESC or SPACE
 
 * R-CHAT: To prevent bugs in OpenAI's `audio-` model, `MaxTokens` is limited to 256.
 
@@ -47,14 +56,14 @@
 
 * Exit `Hide All Menu mode` with Right-Click
 
-* R-CHAT: Supports OpenAI's `audio-` model ( but include a `Warning` about existing Bugs within OpenAI )
+R-CHAT: Now supports OpenAI's `audio-` model (with a warning regarding known bugs on OpenAI's side)
 
 
 ## R-DESK v1.0.1
 
 * R-CHAT: Add `View ChatRoom Info` menu
 
-* R-CHAT: Applying the `Gemini 1.5 Pro` model to the `Waiting Room`
+* R-CHAT: Apply  the "Gemini 1.5 Pro" model to the "Waiting Room"
 
 
 ## R-DESK v1.0.0
