@@ -1,5 +1,12 @@
 # R-DESK ChangeLog
 
+## R-DESK v1.1.1
+
+* R-CHAT: Support for XAI's Grok Model (XAI APIKEY required)
+
+* Fixed: The issue where the API KEY was not being saved.
+
+
 ## R-DESK v1.1.0
 
 * R-CHAT: Apply the "Gemini Experimental 1206" model to the "Basic Room"
