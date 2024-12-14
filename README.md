@@ -26,6 +26,7 @@ The source code is not publicly available for security reasons.
 * [x] Google Gemini supported.
 * [x] OpenAI ChatGPT supported. (Requires OpenAI APIKEY)
 * [x] XAI Grok supported. (Requires XAI APIKEY)
+
 * [x] Supports waiting room and chat rooms.
 * [x] Supports voice recognition. (Requires OpenAI APIKEY)
 * [x] Supports voice output. (Requires OpenAI APIKEY)
