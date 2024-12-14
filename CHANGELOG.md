@@ -2,7 +2,7 @@
 
 ## R-DESK v1.1.1
 
-* R-CHAT: Support for XAI's Grok Model (XAI APIKEY required)
+* R-CHAT: Support for XAI Grok Model (XAI APIKEY required)
 
 * Fixed: The issue where the API KEY was not being saved.
 
