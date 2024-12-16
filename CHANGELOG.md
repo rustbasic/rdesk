@@ -1,5 +1,10 @@
 # R-DESK ChangeLog
 
+## R-DESK v1.1.2
+
+Fixed: Waiting Topic's `New OpenAI Model` Room issue.
+
+
 ## R-DESK v1.1.1
 
 * R-CHAT: Support for XAI Grok Model (XAI APIKEY required)
