@@ -2,7 +2,7 @@
 
 ## R-DESK v1.1.2
 
-Fixed: Waiting Topic's `New OpenAI Model` Room issue.
+* Fixed: Waiting Topic's `New OpenAI Model` Room issue.
 
 
 ## R-DESK v1.1.1
