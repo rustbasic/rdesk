@@ -1,5 +1,14 @@
 # R-DESK ChangeLog
 
+## R-DESK v1.1.3
+
+* R-CHAT: Supports Gemini's "gemini-2.0-flash-thinking-" model
+
+* R-CHAT: Turn on/off the text that Gemini Thinking model thinks.
+
+* R-CHAT: Organized chat rooms for convenient use
+
+
 ## R-DESK v1.1.2
 
 * Fixed: Waiting Topic's `New OpenAI Model` Room issue.
