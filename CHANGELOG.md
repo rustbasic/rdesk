@@ -1,5 +1,18 @@
 # R-DESK ChangeLog
 
+## R-DESK v1.1.5
+
+* R-CRYPTO: Directory units can be copied from regular to CRYPTO directories.
+  And Thread support is implemented.
+
+* R-FILE: Files or Directories can be deleted using Threads.
+
+
+## R-DESK v1.1.4
+
+* R-FILE: Files or Directories can be copied using Threads.
+
+
 ## R-DESK v1.1.3
 
 * R-CHAT: Supports Gemini's "gemini-2.0-flash-thinking-" model
