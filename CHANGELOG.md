@@ -1,5 +1,10 @@
 # R-DESK ChangeLog
 
+## R-DESK v1.1.6
+
+* It's a Recompile.
+
+
 ## R-DESK v1.1.5
 
 * R-CRYPTO: Directory units can be copied from regular to CRYPTO directories.
