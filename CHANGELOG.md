@@ -1,5 +1,12 @@
 # R-DESK ChangeLog
 
+## R-DESK v1.1.7
+
+* Image Creation Chatroom - Create images within the image model (Requires OpenAI APIKEY)
+
+* Automatic lowercase conversion for ID and Password
+
+
 ## R-DESK v1.1.6
 
 * It's a Recompile.
