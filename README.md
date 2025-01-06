@@ -37,6 +37,11 @@ The source code is not publicly available for security reasons.
 
 <img src="media/rchat-2.png" width="100%">
 
+* [x] Create images with prompts. (Requires OpenAI APIKEY)
+* [x] Create images with voice. (Requires OpenAI APIKEY)
+
+<img src="media/rchat-3.png" width="100%">
+
 ## R-Login
 
 * [x] Supports self-login without internet access and database.
