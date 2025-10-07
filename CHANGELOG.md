@@ -1,5 +1,10 @@
 # R-DESK ChangeLog
 
+## R-DESK v1.1.8
+
+* Some improvements
+
+
 ## R-DESK v1.1.7
 
 * Image Creation Chatroom - Create images within the image model (Requires OpenAI APIKEY)
