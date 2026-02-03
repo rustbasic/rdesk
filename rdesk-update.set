@@ -2,8 +2,6 @@
 "language:key", "Default", "English", "Korean", "Japan", "China", "Germany", "France", "Italy", "Spain", "Portugal", "Russian", "Turkey", "India", "Indonesia", "Taiwan", "", "", "", "", "", "", "",
 "language-total:setup", "14", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",
 "rdesk-welcome:notice", "Welcome to R-DESK v1.1.8",
-"rdesk-lastest-version:setup", "v1.1.8",
-"rdesk-lastest-exist:notice", "There's a new version of RDESK available. You can find it at https://github.com/rustbasic/rdesk",
 "rdesk-latest-version:setup", "v1.1.8",
 "rdesk-latest-exist:notice", "There's a new version of RDESK available. You can find it at https://github.com/rustbasic/rdesk",
 "ezchat-welcome:notice", "Welcome to ezChat v0.1.0",
